@@ -1,2 +1,2 @@
-Hackerrank - Ruby - Rspec
+Coder-rank - Ruby - Rspec
 =========================
